@@ -1,0 +1,28 @@
+.AddRuleForm input[type=text], .AddRuleForm textarea {
+  width: 80%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+.AddRuleForm button {
+    height: 50px;
+    width: 150px;
+    padding: 10px;
+    background-color: black;
+    margin-top: 0;
+}
+
+.AddRuleForm button:hover {
+    background-color: white;
+}
+
+@media all and (min-width: 800px) {
+    .AddRuleForm input[type=text], .AddRuleForm textarea {
+        width: 50%;
+    }
+}

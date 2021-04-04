@@ -1,0 +1,22 @@
+section{
+    text-align: center;
+}
+.AddRuleForm button {
+    height: 50px;
+    width: 150px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    align-items: center;
+}
+
+.AddRuleForm button:hover {
+    background-color: white;
+    color: #000;
+}
+
+@media all and (min-width: 800px) {
+    .AddRuleForm input[type=text], .AddRuleForm textarea {
+        width: 50%;
+    }
+}

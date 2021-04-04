@@ -1,0 +1,23 @@
+.Header {
+    display: flex;
+    justify-content: space-evenly;
+    border-bottom: 1px solid black;
+    height: 125px;
+}
+
+Header a {
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.Header__not-logged-in, .Header__logged-in {
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+Link{
+    padding-right: 2px;
+}

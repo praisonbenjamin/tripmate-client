@@ -1,0 +1,9 @@
+.pass-requirements ul{
+    list-style: none;
+}
+
+.pass-requirements {
+    text-align: left;
+    margin-right: 15%;
+    margin-left: 30%;
+}

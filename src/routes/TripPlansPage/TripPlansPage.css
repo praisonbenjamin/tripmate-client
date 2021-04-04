@@ -1,0 +1,26 @@
+.content {
+    display: flex;
+}
+
+.sidebar{
+    flex: 1;
+}
+
+.userRules {
+    flex: 2;
+}
+
+.Sidebar {
+    border-right: 1px solid black;
+}
+
+.Sidebar button {
+    padding: 25px 40px;
+    margin: 10px 10px;
+    width: 200px;
+}
+
+.burger button {
+    padding: 10px;
+    width: 150px;
+}

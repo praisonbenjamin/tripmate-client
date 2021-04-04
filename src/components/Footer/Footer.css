@@ -1,0 +1,14 @@
+footer {
+    margin-top: 20px;
+    border-top: 1px solid black;
+}
+
+footer p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+@media all and (min-width: 800px) {
+    footer {
+        margin-top: 0px;
+    }
+}
