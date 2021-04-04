@@ -1,5 +1,4 @@
-import React, { Component, useCallback } from "react";
-
+import React, { useCallback } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faAngleDoubleLeft } from '@fortawesome/free-solid-svg-icons';
 import './AddTrip.css';
