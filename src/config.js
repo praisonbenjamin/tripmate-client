@@ -1,5 +1,5 @@
 const config = {
-    API_ENDPOINT: 'http://localhost:8000/api',
+    API_ENDPOINT: 'https://pb-tripmate.herokuapp.com/api',
     TOKEN_KEY: 'playpacket-client-auth-token',
 }
 
